@@ -1,1 +1,1 @@
-# Mnist_handwritten-classification
+# Mnist_handwritten-classification-ANN
